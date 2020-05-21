@@ -1,0 +1,9 @@
+C:\Projects\Tutoring-web\Shared\bin\Debug\netstandard2.1\Tutoring-web.Shared.deps.json
+C:\Projects\Tutoring-web\Shared\bin\Debug\netstandard2.1\Tutoring-web.Shared.dll
+C:\Projects\Tutoring-web\Shared\bin\Debug\netstandard2.1\Tutoring-web.Shared.pdb
+C:\Projects\Tutoring-web\Shared\obj\Debug\netstandard2.1\Tutoring-web.Shared.csprojAssemblyReference.cache
+C:\Projects\Tutoring-web\Shared\obj\Debug\netstandard2.1\Tutoring-web.Shared.AssemblyInfoInputs.cache
+C:\Projects\Tutoring-web\Shared\obj\Debug\netstandard2.1\Tutoring-web.Shared.AssemblyInfo.cs
+C:\Projects\Tutoring-web\Shared\obj\Debug\netstandard2.1\Tutoring-web.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\Tutoring-web\Shared\obj\Debug\netstandard2.1\Tutoring-web.Shared.dll
+C:\Projects\Tutoring-web\Shared\obj\Debug\netstandard2.1\Tutoring-web.Shared.pdb
